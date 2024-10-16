@@ -6,6 +6,9 @@ The **Diabetes Prediction System** is a web application designed to predict the 
  <br> <br>[Diabetes Prediction System - GitHub Repository](https://github.com/Abishakm1507/Diabetes-Prediction)
  <br> <br>This repository provides a comprehensive breakdown of the data preprocessing steps, model training, and the evaluation techniques applied to achieve these results.
 
+## Web App Preview
+![Image Alt Text]([URL](https://ibb.co/tX7n2BX))
+
 ## Features
 - **Machine Learning Models:** Utilizes an ensemble of machine learning algorithms (Random Forest, XGBoost, KNN) to enhance prediction accuracy.
 - **Data Preprocessing:** Handles missing data, normalizes features, and encodes categorical variables for better model interpretation.
