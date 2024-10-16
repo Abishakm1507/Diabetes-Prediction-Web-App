@@ -92,3 +92,7 @@ The **Diabetes Prediction System** is a web application designed to predict the 
 ## Contribution
 
 We welcome contributions from the community! Feel free to fork the repository and submit pull requests.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
